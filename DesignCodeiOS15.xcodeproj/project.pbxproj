@@ -44,6 +44,7 @@
 		4101BE0D27441B7D00940544 /* DesignCodeiOS15UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesignCodeiOS15UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4101BE1127441B7D00940544 /* DesignCodeiOS15UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeiOS15UITests.swift; sourceTree = "<group>"; };
 		4101BE1327441B7D00940544 /* DesignCodeiOS15UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeiOS15UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4101BE2027442A3F00940544 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		4101BDEA27441B7A00940544 = {
 			isa = PBXGroup;
 			children = (
+				4101BE2027442A3F00940544 /* README.md */,
 				4101BDF527441B7B00940544 /* DesignCodeiOS15 */,
 				4101BE0627441B7D00940544 /* DesignCodeiOS15Tests */,
 				4101BE1027441B7D00940544 /* DesignCodeiOS15UITests */,
