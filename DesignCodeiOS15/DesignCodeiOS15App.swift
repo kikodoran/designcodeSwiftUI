@@ -15,3 +15,9 @@ struct DesignCodeiOS15App: App {
         }
     }
 }
+
+struct DesignCodeiOS15App_Previews: PreviewProvider {
+    static var previews: some View {
+        Text("SwiftUI for iOS 15")
+    }
+}
